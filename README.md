@@ -1,5 +1,5 @@
 <!--
-  ThreatLens — public overview README (thethreatlens-inc/-public-resources-).
+  ThreatLens — public overview README (thethreatlens-inc/AI-Governance).
   Keep README.md and banner.png together in the same folder so the banner resolves.
 -->
 
